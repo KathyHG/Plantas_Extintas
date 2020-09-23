@@ -7,7 +7,6 @@ actions <- readr::read_csv("https://raw.githubusercontent.com/rfordatascience/ti
 threats <- readr::read_csv("https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2020/2020-08-18/threats.csv")
 
 
-
 Crear un nuevo Rmarkdown
 
 
